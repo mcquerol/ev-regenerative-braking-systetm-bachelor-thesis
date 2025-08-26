@@ -1,3 +1,3 @@
-# ev-regenerative-braking-systetm-bachelor-thesis
+# ev-regenerative-braking-system-bachelor-thesis
 
 Initial README file.
